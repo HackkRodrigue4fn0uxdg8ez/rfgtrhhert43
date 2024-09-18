@@ -3,3 +3,4 @@ Add feature for X [aLHYoX] line 5.2
 Refactor codebase with Z [WiaG4v] line 13.1
 Fix issue in Y [1CAtx4] line 14.1
 Refactor codebase with Z [Ick1iY] line 15.1
+Refactor codebase with Z [NyUUKg] line 17.2
